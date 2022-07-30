@@ -1,0 +1,8 @@
+
+Ncsharpsquid:S3903",Move 'GunController' into a named namespace.(’Ê»ûÿÿÿÿ
+Ccsharpsquid:S2933	"Make '_bulletSpeed' 'readonly'.(”€ Á8¸Ùœ0
+Ccsharpsquid:S2933
+"Make '_torque' 'readonly'.(õ“£ÿüÿÿÿÿ8¸Ùœ0
+acsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(åÃŸ
+fcsharpsquid:S1104"DMake this field 'private' and encapsulate it in a 'public' property.(ÕÊé÷ıÿÿÿÿ
+~csharpsquid:S1450"\Remove the field 'currentBullet' and declare it as a local variable in the relevant methods.(š‚ˆıÿÿÿÿ
